@@ -1,4 +1,4 @@
-## Checkpoint 3 3ECR
+## Challenge Sprint 3 3ECR
 ### integrantes
 Aline Victoria Da Cruz Ferreira Pinheiro - 86295 <br />
 Allan Ferreira Barbosa - 86356 <br />
